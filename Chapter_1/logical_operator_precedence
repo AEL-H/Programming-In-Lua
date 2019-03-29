@@ -1,0 +1,6 @@
+`(x and y and (not z)) or ((not y) and x)
+
+not -> and -> or
+
+as far as I can tell, the parentheses are not necessary
+however, if helps to make the code more readable
